@@ -18,7 +18,7 @@ Os dados são salvos localmente no seu navegador.
 
 ## 📂 Estrutura  
 
-``` todo-list/ ├── index.html ├── style.css └── script.js ```
+<pre> ``` todo-list/ ├── index.html ├── style.css └── script.js ``` </pre>
 
 ---
 
